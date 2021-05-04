@@ -1,2 +1,2 @@
-# samu
+# Samu
 Starter Block Based Theme
