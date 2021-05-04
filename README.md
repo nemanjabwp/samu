@@ -1,2 +1,2 @@
 # Samu
-Starter Block Based Theme
+### Samu is Starter Block-based WordPress Theme. 
