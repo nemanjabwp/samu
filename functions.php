@@ -1,15 +1,11 @@
 <?php
-
 /**
  * Theme setup.
  */
-
 if ( ! function_exists( 'samu_support' ) ) :
-
 	/**
     * Sets up theme defaults and registers support for various WordPress features.
     */
-
 	function samu_support()  {
 
 		// Add default posts and comments RSS feed links to head.
